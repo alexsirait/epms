@@ -1,0 +1,21 @@
+present project 9agus:
+1. bikin dashboard employee tampil epms per tahun
+2. tampil 100 pms per page 
+3. perbaikan halaman update 
+4. halaman rating criteria dan filling instruction
+
+
+feedback: 
+1. approval perintah untuk mengirim ke manager (sudah bisa mailer ke direct leader dan manager)
+2. dashboard manager hanya yg sudah diapprove direct leader (sudah)
+
+3. tombol utk mengirim email per section pada HR khusus dept : production , qc (sudah)
+
+4. pull server (belum , blm diprovide repos phase2)
+
+
+SELECT * FROM form WEHERE YEAR(period_from) = 2022;
+
+[ mailer ]
+Usernamenya noreply@cladtek.com 
+passwordnya: Cl4dtek@2015

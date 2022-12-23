@@ -1,0 +1,114 @@
+password default :123456
+e10adc3949ba59abbe56e057f20f883e
+
+level_id
+1 = employee
+2 = direct_leader
+3 = manager
+4 = hrd
+5 = manager + dl
+
+manager : +DL = sekaligus Direct Leader
+1. Abdurohman bin Rawinda +DL
+2. Chu Beng Yan +DL
+3. Craig Duncan +DL
+4. Dayanandan Jayachandra Babu +DL
+5. Fernando Siboro +DL
+6. Franklin +DL
+7. Irwan Loser Pardede +Dl
+8. Iswantika Eka Putra +DL
+9. Jan Jonswan Hutasoit +DL
+10. Lee Pei Chynthnelan Cynthia +DL
+11. Mediana Magdalena Siagian +DL
+12. Paul Anthony Montague +DL
+13. Reylina Garcia Tayactac +DL
+14. Romaida Hutabarat +DL
+15. Sigit Naharuddin +DL
+16. Suryanarayanan +DL
+17. Tomoyuki Ueno +DL
+18. Untung Ady Suroso +DL
+19. Wayne Leslie Williams +DL
+
+direct_leader 
+1. Agustina Simamora
+2. AH Muh Rojab
+3. Ahmad Saad
+4. Al Imran
+5. Albert Hasudungan Panjaitan
+6. Asiman Simalango
+7. Awaludin Daulay
+8. Awisy Karni
+9. Bustami
+10. Candra Kirana
+11. Charles Edison Simangunsong
+12. Charles R Lumban Tobing
+13. Decky Heryanto
+14. Dedy Januar
+15. Diansyah Aras
+16. Doni Mardiansyah
+17. Dul Halim
+18. Dwi Cahyono
+19. Edi Syahputra
+20. Edy Sudarman Sinaga
+21. Franciscus Xaverius Tomy
+22. Ganesh Karri
+23. Gatot Hartojo
+24. Gunawan Hadi Prawira
+25. Hamid Salamah
+26. Haryanto
+27. Hendi Saputra
+28. Heru Suprapto
+29. Herwansah
+29. Himawan Azis
+30. Hot Bangun T.
+31. Hotner Hutagalung
+32. Iban Salda Safwan
+33. Intan Bayduri
+34. Iwanto
+35. Jamarsen Saragih
+36. Janatul Khalik
+37. Jasriono
+38. Jhonson Parlindungan S
+39. John Piter Sitompul
+40. Joni Mart Sitio
+41. Juanto Ambarita
+42. Judika Manurung
+43. Junaidi
+44. Kabib
+45. Kamiruddin
+46. Khairil
+47. Lee Wilson -gaada di employ
+48. Leorandus Manurung
+49. Lisdiansyah
+50. M Ridha
+51. M. Nur Dharma
+52. Maniar Herawaty Simanjuntak
+53. Marga Suryastra
+54. Martana
+55. Marwan Syarif
+56. Mirza Efendi
+57. Muhammad Sulaiman
+58. Mukhlizar
+59. Patar Pangaribuan
+60. Pesan Mirgot Situmorang
+61. Poppi Shoma
+62. Putra Pernandes
+63. R. Padmanaba Bayu Sutrisna
+64. Rahmat Gunanda
+65. Ramot Silitonga
+66. Rizal TP Hutagalung
+67. Ronsen Panggabean
+68. Sazli Rahmat
+69. Septi Christian Saragih
+70. Shomad Ibrahim
+71. Stefanno Widy Yunior
+72. Suindra
+73. Sultan Juliadi Hutabarat
+74. Suriadi
+75. Suyanto
+76. Syahrial
+77. Tismono
+78. Vinod Kumar Ramashankar
+79. Yuli Fatmawati
+80. Yuli Yanti Ginting
+81. Aang junaidi

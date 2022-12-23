@@ -1,0 +1,8 @@
+feedback 16agus :
+1. bikin mailer per section
+
+cd existing_repo
+git remote add origin https://gitlab.com/Cladtek/pms.git
+git branch -M HRIS
+git commit -m "PMS mailer active (auto send email after submit form), send email per section for Dept. Production & Quality Control"
+git push -uf origin HRIS

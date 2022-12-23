@@ -1,0 +1,26 @@
+Production :
+email manager : tomoyuki.ueno@cladtek.com
+1. Bending & HT
+2. Blast & Paint
+3. Equipment & Build
+4. Liner
+5. Machine Shop
+6. Manual Repair
+7. Material Movement
+8. MLP
+9. Packing & Carpentry
+10. Production
+11. QH
+12. SHV
+13. Spool Fab.
+14. Spool Fab. Fitter
+15. Spool Fab. Welder
+16. TH
+17. WOL
+
+
+QC :
+email manager : abdurohman.rawinda@cladtek.com
+1. NDE
+2. QC Document Controller
+3. Quality Control

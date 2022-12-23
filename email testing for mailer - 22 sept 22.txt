@@ -1,0 +1,11 @@
+12/08/2022 : sudah bisa flow approval mailernya
+
+
+akun testing
+
+lvl 1 (employee)
+email : satoto.subandoro@gmail.com
+
+lvl 2 (direct leader) : satoto@outlook.com
+
+lvl 3 (manager) : satoto.subandoro@icloud.com
